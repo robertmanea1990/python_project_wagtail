@@ -1,1 +1,4 @@
-# python_project_wagtail
+git status
+git add *
+git commit -m "Mesaj"
+git push
